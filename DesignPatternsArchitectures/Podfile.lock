@@ -1,0 +1,20 @@
+PODS:
+  - KVOController (1.2.0)
+  - ReactiveObjC (3.1.0)
+
+DEPENDENCIES:
+  - KVOController
+  - ReactiveObjC
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - KVOController
+    - ReactiveObjC
+
+SPEC CHECKSUMS:
+  KVOController: d72ace34afea42468329623b3379ab3cd1d286b6
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+
+PODFILE CHECKSUM: bc62aaee2a3f132d8b8c65ee1ad30d5ce6e134b2
+
+COCOAPODS: 1.5.3
